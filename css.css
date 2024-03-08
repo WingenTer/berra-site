@@ -1,0 +1,15 @@
+menuitem{
+    font-size: 20px;
+    font-style: normal;
+    font-family: 'Courier New', Courier, monospace;
+    color: crimson;
+}
+body{
+    background-color:blueviolet;
+}
+.veryclass{
+    align: center,
+    
+    position: relative;
+    margin: auto
+}
